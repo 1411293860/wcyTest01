@@ -23,7 +23,7 @@ public class TestStringUtils {
 	
 	@Test
 	public void testIsBlank2() {
-		
+		//断言
 		assertFalse(StringUtils01.isBlank("aaa"));
 	}
 }
